@@ -1,0 +1,23 @@
+.title{
+    font-size: 3vw;
+    text-align: center;
+}
+
+.picture{
+    margin-left: 5vw;
+    width: 20vw;
+    height: 25vw;
+}
+
+.button{
+    width: 7vw;
+    height: 3vw;
+    font-size: 25px;
+    margin-left: 15vw;
+    margin-top: 2vw;
+}
+
+#total-price{
+    margin-left:10vw;
+    font-size: 3vw;
+}
